@@ -13,9 +13,9 @@ using System.Reflection;
 
 [assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("07e5fe18-eff7-4f3f-bde9-23e67aab236f")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("SyncfusionBlazorAppRegister")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c7211b2322853fc821cd25ee11d6ed19a868175a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7a60ef86dbe985033fad47d15d1adcc81d42b655")]
 [assembly: System.Reflection.AssemblyProductAttribute("SyncfusionBlazorAppRegister")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SyncfusionBlazorAppRegister")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
